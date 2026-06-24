@@ -4,5 +4,6 @@ print(c)
 d = b-a
 print(d)
 print("hello orld")
-# this is the simple code for  
-#this is something new i learned today i can push commits on github from vs-code also without using command
+# this is the simple code forgit  
+# this is something new i learned today i can push commits on github from vs-code also without using command
+# is there any way to 
