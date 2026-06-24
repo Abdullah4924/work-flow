@@ -7,3 +7,4 @@ print("hello orld")
 # this is the simple code forgit  
 # this is something new i learned today i can push commits on github from vs-code also without using command
 # is there any way to git this
+# his ijs kkal
